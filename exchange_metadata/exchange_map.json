@@ -1,0 +1,116 @@
+{
+  "XKLS": {
+    "mic": "XKLS",
+    "alias": ["MYX", "BURSA", "KLS"],
+    "name": "Bursa Malaysia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "currency": "MYR",
+    "timezone": "Asia/Kuala_Lumpur",
+    "dst_observed": false,
+    "trading_hours": {
+      "monday": [["09:00", "12:30"], ["14:30", "17:00"]],
+      "tuesday": [["09:00", "12:30"], ["14:30", "17:00"]],
+      "wednesday": [["09:00", "12:30"], ["14:30", "17:00"]],
+      "thursday": [["09:00", "12:30"], ["14:30", "17:00"]],
+      "friday": [["09:00", "12:30"], ["14:30", "17:00"]],
+      "saturday": [],
+      "sunday": []
+    }
+  },
+  "XNYS": {
+    "mic": "XNYS",
+    "alias": ["NYSE"],
+    "name": "New York Stock Exchange",
+    "country": "United States",
+    "city": "New York",
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "dst_observed": true,
+    "trading_hours": {
+      "monday": [["09:30", "16:00"]],
+      "tuesday": [["09:30", "16:00"]],
+      "wednesday": [["09:30", "16:00"]],
+      "thursday": [["09:30", "16:00"]],
+      "friday": [["09:30", "16:00"]],
+      "saturday": [],
+      "sunday": []
+    }
+  },
+  "XNAS": {
+    "mic": "XNAS",
+    "alias": ["NASDAQ"],
+    "name": "NASDAQ Stock Market",
+    "country": "United States",
+    "city": "New York",
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "dst_observed": true,
+    "trading_hours": {
+      "monday": [["09:30", "16:00"]],
+      "tuesday": [["09:30", "16:00"]],
+      "wednesday": [["09:30", "16:00"]],
+      "thursday": [["09:30", "16:00"]],
+      "friday": [["09:30", "16:00"]],
+      "saturday": [],
+      "sunday": []
+    }
+  },
+  "XTKS": {
+    "mic": "XTKS",
+    "alias": ["TSE", "JPX"],
+    "name": "Tokyo Stock Exchange",
+    "country": "Japan",
+    "city": "Tokyo",
+    "currency": "JPY",
+    "timezone": "Asia/Tokyo",
+    "dst_observed": false,
+    "trading_hours": {
+      "monday": [["09:00", "11:30"], ["12:30", "15:00"]],
+      "tuesday": [["09:00", "11:30"], ["12:30", "15:00"]],
+      "wednesday": [["09:00", "11:30"], ["12:30", "15:00"]],
+      "thursday": [["09:00", "11:30"], ["12:30", "15:00"]],
+      "friday": [["09:00", "11:30"], ["12:30", "15:00"]],
+      "saturday": [],
+      "sunday": []
+    }
+  },
+  "XKRX": {
+    "mic": "XKRX",
+    "alias": ["KRX", "KOREA"],
+    "name": "Korea Exchange",
+    "country": "South Korea",
+    "city": "Seoul",
+    "currency": "KRW",
+    "timezone": "Asia/Seoul",
+    "dst_observed": false,
+    "trading_hours": {
+        "monday": [["09:00", "15:30"]],
+        "tuesday": [["09:00", "15:30"]],
+        "wednesday": [["09:00", "15:30"]],
+        "thursday": [["09:00", "15:30"]],
+        "friday": [["09:00", "15:30"]],
+        "saturday": [],
+        "sunday": []
+    }
+  },
+  "XBIN": {
+    "mic": "XBIN",
+    "alias": ["BINANCE", "CRYPTO_BINANCE"],
+    "name": "Binance Exchange",
+    "country": "Global",
+    "city": "-",
+    "currency": "varies",
+    "timezone": "UTC",
+    "dst_observed": false,
+    "trading_hours": {
+      "monday": [["00:00", "23:59"]],
+      "tuesday": [["00:00", "23:59"]],
+      "wednesday": [["00:00", "23:59"]],
+      "thursday": [["00:00", "23:59"]],
+      "friday": [["00:00", "23:59"]],
+      "saturday": [["00:00", "23:59"]],
+      "sunday": [["00:00", "23:59"]]
+    }
+  }
+}

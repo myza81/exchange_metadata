@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: exchange_metadata
+Version: 0.1.0
+Summary: Lookup and enrich exchange metadata including timezone, trading hours, and location using MIC codes and aliases.
+Author-email: myabah <myabah81@gmail.com>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file

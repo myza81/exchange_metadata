@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+exchange_metadata/__init__.py
+exchange_metadata/get_exchange_metadata.py
+exchange_metadata_enricher.egg-info/PKG-INFO
+exchange_metadata_enricher.egg-info/SOURCES.txt
+exchange_metadata_enricher.egg-info/dependency_links.txt
+exchange_metadata_enricher.egg-info/top_level.txt
+tests/test_lookup.py
