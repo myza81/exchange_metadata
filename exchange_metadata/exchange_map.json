@@ -21,7 +21,7 @@
   },
   "XNYS": {
     "mic": "XNYS",
-    "alias": ["NYSE"],
+    "alias": ["NYSE","NYQ"],
     "name": "New York Stock Exchange",
     "country": "United States",
     "country_code": "US",
@@ -41,7 +41,7 @@
   },
   "XNAS": {
     "mic": "XNAS",
-    "alias": ["NASDAQ"],
+    "alias": ["NASDAQ", "NMS"],
     "name": "NASDAQ Stock Market",
     "country": "United States",
     "country_code": "US",

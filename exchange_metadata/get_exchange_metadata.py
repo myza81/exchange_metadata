@@ -33,7 +33,7 @@ def get_exchange_metadata(code: str) -> dict:
 
     key = code.strip().upper()
     if key not in _alias_map:
-        raise ValueError(f"Exchange code or alias '{code}' not found.")
+        raise ValueError(f"Exchange code or alias '{code}' not found in the exchange_metadata library.")
 
     mic = _alias_map[key]
     return _exchange_data[mic]
