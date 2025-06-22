@@ -117,5 +117,26 @@
       "saturday": [["00:00", "23:59"]],
       "sunday": [["00:00", "23:59"]]
     }
+  },
+  "XLON": {
+    "mic": "XLON",
+    "alias": ["LSE", "LONDON"],
+    "name": "London Stock Exchange",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "currency": "GBP",
+    "timezone": "Europe/London",
+    "dst_observed": true,
+    "trading_hours": {
+      "monday": [["08:00", "16:30"]],
+      "tuesday": [["08:00", "16:30"]],
+      "wednesday": [["08:00", "16:30"]],
+      "thursday": [["08:00", "16:30"]],
+      "friday": [["08:00", "16:30"]],
+      "saturday": [],
+      "sunday": []
+    }
   }
+
 }
